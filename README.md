@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Forensic Pursuit](https://github.com/nina-huangg/Forensics-Pursuit?tab=readme-ov-file)
 
-- 🌱 I’m currently learning **Game Design**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 📫 How to reach me **olivia.markow@mail.utoronto.ca**
 
-- ⚡ Fun fact: **I really want to get into songwriting! If you have any tips please reach out :)**
+- ⚡ Fun fact: **I really want to get into music production! If you have any tips please reach out :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
